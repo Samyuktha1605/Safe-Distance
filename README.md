@@ -1,4 +1,4 @@
-#Safe Distance
+# Safe Distance
 
 COVID-2019 has been recognized as a global threat, and several studies are being conducted in order to contribute to the fight and prevention of this pandemic. Currently, there are so many dashboards and statistics around the Coronavirus spread available all over the internet. With so much information and expert opinions, to see different nations adopting different strategies, from complete lockdown to social distancing to herd immunity, there is an immediate need to figure out which strategy is actually effective in nabbing the spread of the deadly virus.
 As each and every sector of the market is growing, data is building up day by day, we need
